@@ -1,0 +1,118 @@
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+}
+
+label {
+    font-family: sans-serif;
+    justify-content: center;
+
+}
+
+textarea {
+    flex: 100%;
+    border: none;
+    border-bottom: solid 5px #545454;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    height: 50px;
+    background-color: inherit;
+}
+
+button {
+    background-color:#4056A1;
+    color: #FFFFFF;
+    font-family: Bungee;
+}
+
+.counting {
+    justify-content: right;
+    font-family: Bungee;
+}
+
+.container {
+    padding-bottom: 40px;
+}
+
+article {
+    margin-top: 2em;
+    border: solid 5px #545454; 
+    padding: 10px;
+}
+
+article:hover {
+    box-shadow: 0px 10px #888888;
+}
+
+.article-tweet-header {
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+    height: 25px;
+    background-color: inherit;
+    background-image: none;
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-between;  
+}
+
+.article-tweet-header-profile {
+    display: flex;
+}
+
+.tweet-header-icon {
+    margin-right: .5em;
+}
+
+.tweet-handle {
+    margin-right: .5em;
+}
+
+.article-tweet-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.tweet-text {
+    display: flex;
+    justify-content: flex-start;
+    height: 50px;
+    border-bottom: solid 5px #545454;
+}
+
+.tweet-post-date {
+    font-size: 20px;
+}
+
+.tweet-footer-icons {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;    
+}
+
+.fa-solid.fa-flag:hover {
+    color: yellow;
+}
+
+.fa-sharp.fa-solid.fa-retweet:hover {
+    color: yellow;
+}
+
+.fa-solid.fa-heart:hover {
+    color: yellow;
+}
+
+.new-tweet #new-tweet-err-message {
+    display: none;
+    border: 1px solid;
+    padding: 15px 10px 15px 50px;
+    color: #D8000C;
+    border-color: #D8000C;
+    background-color: #FFBABA;
+    background-image: url('https://i.imgur.com/GnyDvKN.png');
+    background-position: 10px center;
+    background-repeat: no-repeat;
+}
