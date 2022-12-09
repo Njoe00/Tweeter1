@@ -25,7 +25,7 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## ScreenShots 
 ![Screenshot of tweets](https://github.com/Njoe00/Tweeter1/blob/master/docs/tweets.png?raw=true)
-![Screenshot of tablet sized Tweeter Application](https://github.com/Njoe00/Tweeter1/blob/master/docs/tweet-box%20tabletsize.png?raw=true)
+![Screenshot of tablet sized Tweeter Application](https://github.com/Njoe00/Tweeter1/blob/master/docs/tweet-box-tabletsize.png?raw=true)
 ![Screenshot of desktop sized Tweeter Application](https://github.com/Njoe00/Tweeter1/blob/master/docs/tweet-box-main-page.png?raw=true)
 
 ## How to use Tweeter App
