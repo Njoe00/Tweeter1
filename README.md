@@ -16,7 +16,7 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## Getting Started
 
-1. [Create](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) a new repository using this repository as a template.
+1. [Create](https://github.com/Njoe00/Tweeter1) a new repository using this repository as a template.
 2. Clone your repository onto your local device.
 3. Install dependencies using the `npm install` command.
 3. Start the web server using the `npm run local` command. The app will be served at <http://localhost:8080/>.
@@ -24,9 +24,9 @@ This repository is the starter code for the project: Students will fork and clon
 
 
 ## ScreenShots 
-![Screenshot of tweets]()
-![Screenshot of tablet sized Tweeter Application]()
-![Screenshot of desktop sized Tweeter Application]()
+![Screenshot of tweets](https://github.com/Njoe00/Tweeter1/blob/master/docs/tweets.png?raw=true)
+![Screenshot of tablet sized Tweeter Application](https://github.com/Njoe00/Tweeter1/blob/master/docs/tweet-box%20tabletsize.png?raw=true)
+![Screenshot of desktop sized Tweeter Application](https://github.com/Njoe00/Tweeter1/blob/master/docs/tweet-box-main-page.png?raw=true)
 
 ## How to use Tweeter App
 1. Load `localhost:8080` onto your browswer.
